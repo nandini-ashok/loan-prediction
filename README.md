@@ -11,5 +11,5 @@ Data preprocessing:-
       EDA anlysis done because
          misising values:- imputation done by using median for numerical data and mode fo rcategorical data
 Model building:-
-      used ensemble random forestbagging classifier , kNN classifier 
+      used ensemble random forestbagging classifier , kNN classifier ,logistic regression
 Test the accuracy with accuarcy for the testdata
